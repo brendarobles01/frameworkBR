@@ -20,7 +20,7 @@ npm install
 ```
 
 
-# Run  test scripts command 
+## Run  test scripts command 
 
 ```
 npm run test
